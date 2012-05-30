@@ -9,7 +9,7 @@ development:
   database: sample_app_development
 
 test:
-  <<: *comon
+  <<: *common
   database: sample_app_test
 
 production:
